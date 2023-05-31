@@ -1,4 +1,4 @@
-# products - 2023.05.31
+# products - 2023.05.31-222
 상품 추가시 상품 옵션은 OneToMany <-> ManyToOne 관계  
 
 
